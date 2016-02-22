@@ -38,11 +38,14 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 30px;
+    font-family: sans-serif;
+    
 }
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #black;
+    opacity: 0.3; 
+    filter: alpha(opacity=30);
     
 }
 
@@ -54,9 +57,10 @@ div.img {
     padding-left: 15px;
 }	
 
-/*div.img:hover {
-    border: 1px solid #777;
-}*/
+div.img:hover {
+   opacity: 0.3; 
+    filter: alpha(opacity=30);
+}
 
 div.img img {
     width: 100%;
@@ -66,6 +70,7 @@ div.img img {
 div.desc {
     padding: 15px;
     text-align: center;
+    font-family: sans-serif;
 }
 
 .copy{
@@ -113,3 +118,29 @@ div.mup mup {
 .social img{
     padding-left: 5%;
 }
+
+.description{
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 5%;
+    font-family: sans-serif;
+}
+
+.bild{
+     margin: 50px;
+  
+    float: left;
+    width: 400px;
+    padding-left: 20%;
+    
+    
+}
+
+.logo{
+    text-align: center;
+    padding-left: 7%;
+}
+
+
+
+
