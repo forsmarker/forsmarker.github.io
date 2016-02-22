@@ -143,10 +143,28 @@ div.mup mup {
 }
 
 .profile{
-    text-align: center;
+   float: left;
+    
+    margin-top: 25px;
+    
   
+}
+
+.text{
+    
+  float: right;
+font-family: sans-serif;
+    width: 40%;
+    font-size: 18px;
+    margin-top: 0;
     
 }
+.about{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
 
 
 
