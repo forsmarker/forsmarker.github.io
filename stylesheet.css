@@ -139,7 +139,9 @@ div.mup mup {
 
 .logo{
     text-align: center;
-    padding-left: 7%;
+    max-width: 100%;
+    height: auto !important;
+  padding-left: 7%;
 }
 
 .profile{
