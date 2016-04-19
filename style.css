@@ -46,6 +46,9 @@ span.x4:before, i.x4:before
 /*------------------------------------*\
 	HEADER
 \*------------------------------------*/
+header{
+    position: relative;
+}
 
 header .container-fluid
 {
