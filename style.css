@@ -238,3 +238,13 @@ footer a:hover{
     40%  { -webkit-transform: translateY(-20px); }
 	80% { -webkit-transform: translateY(-10px); }
 }
+
+@media (max-width: 600px) {
+    body{
+        line-height: 1.5;
+    }
+    .img-responsive{
+     padding-top: 10%;
+         padding-bottom: 0%;
+    }
+}
