@@ -248,3 +248,49 @@ footer a:hover{
          padding-bottom: 0%;
     }
 }
+
+.andra{
+    background: #AAE2F8;
+}
+
+.firstpage img {
+    
+    width: 35%;
+    height: auto;
+    float: right;
+    padding-right: 5%;
+    padding-top: 7%;
+}
+
+.firstpage p{
+ padding-top: 15%; 
+    padding-left: 5%;
+    font-size: 25px;
+    font-family: sans-serif, helvetica;
+    color: azure;
+    line-height:100%;
+    padding-bottom: 7%;
+}
+
+.firstpage a {
+    text-decoration: none;
+    color: darkslategrey;
+}
+
+a:hover{
+    color: azure;
+}
+
+.hej{
+    background-color: dimgrey;
+   
+    width: 15%;
+    border: none;
+    font-size: 20px;
+    height: 8%;
+    text-align: center;
+    color: azure;
+    
+}
+
+
